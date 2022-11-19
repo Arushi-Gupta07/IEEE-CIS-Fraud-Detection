@@ -51,6 +51,7 @@ Pygments==2.11.2
 pyparsing==3.0.7
 pyrsistent==0.18.0
 python-dateutil==2.8.2
+python-distutils
 pytz==2021.3
 pyzmq==22.3.0
 qtconsole==5.2.2
@@ -61,7 +62,6 @@ scipy==1.5.4
 Send2Trash==1.8.0
 six==1.16.0
 sklearn==0.0
-distutils
 terminado==0.12.1
 testpath==0.6.0
 threadpoolctl==3.1.0
