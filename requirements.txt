@@ -8,7 +8,7 @@ Jinja2==2.11.2
 joblib==0.15.1
 jsonify==0.5
 MarkupSafe==1.1.1
-numpy==1.20.3
+numpy==1.21
 requests==2.24.0
 scikit-learn==0.23.1
 scipy==1.5.0
@@ -37,7 +37,7 @@ Flask==2.0.3
 idna==3.3
 importlib-metadata==4.8.3
 ipykernel==5.5.6
-python==3.9.1
+python==3.10
 ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.6.5
