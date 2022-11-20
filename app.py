@@ -9,13 +9,9 @@ import lightgbm
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import OneHotEncoder
 from lightgbm import LGBMClassifier
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, redirect
 from werkzeug.utils import secure_filename
 import joblib
-
-
-
-
 
 
 print('The scikit-learn version is {}.'.format(sklearn.__version__))
@@ -28,9 +24,7 @@ app = Flask(__name__)
 def Index():
      return render_template('Index.html')
 
-
-    
-  
+Index()
 
 if __name__=='__main__':
     app.run(debug=True)
