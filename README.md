@@ -1,6 +1,7 @@
 # IEEE-CIS-Fraud-Detection
 
-<img width="270" alt="image" src="https://user-images.githubusercontent.com/116758652/203837379-9206df0a-dd1e-44e1-a895-9e0eb7897c5c.png">
+<img width="490" alt="image" src="https://user-images.githubusercontent.com/116758652/203837992-3e69f739-4898-411c-9148-93d3f9a6c0f5.png">
+
 
 The data for this project broken into two files identity and transaction, which are joined by TransactionID. 
 Not all transactions have corresponding identity information.
