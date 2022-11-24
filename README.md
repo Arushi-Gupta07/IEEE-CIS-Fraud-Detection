@@ -14,9 +14,9 @@ test_{transaction, identity}.csv - The test set data (we need to predict the isF
 
 
 Best auc is given by LGBM model
-<img width="513" alt="image" src="https://user-images.githubusercontent.com/116758652/203846363-2367cf7b-a34c-423f-a235-9e1bd381b7c2.png">
 
 
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/116758652/203846363-2367cf7b-a34c-423f-a235-9e1bd381b7c2.png">
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/116758652/203846025-ab56c169-4469-45f8-a800-9c007617c421.png">
 
 
