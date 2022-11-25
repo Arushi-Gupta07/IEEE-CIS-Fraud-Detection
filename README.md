@@ -22,5 +22,5 @@ Best auc is given by LGBM model
 
 
 Competition Link - https://www.kaggle.com/competitions/ieee-fraud-detection
-Application Link - https://ieee-cis-fraud-predictionapi.herokuapp.com/
+Application Link - https://ieee-cis-fraud-prediction-api.herokuapp.com/
 
